@@ -1,16 +1,20 @@
-.navbar{
-    width: 100%;
+.navbar {
+    overflow: hidden;
     background-color: rgba(255, 255, 255, 0.7);
     backdrop-filter: blur(10px);
-}
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
 
-.Splitright{
+  .spliterright{
+   width: 50%;
+  }
+
+  .spliterleft{
     width: 50%;
-    display: flex;
-    font-display: left;
-    font-size: 24px;
-}
+  }
 
-.Banner{
-    background-image: url("./Assets/img/banner.png");
-}
+  .container{
+    width: 100%;
+  }
