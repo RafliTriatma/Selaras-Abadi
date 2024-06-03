@@ -1,0 +1,11 @@
+#navbar{
+    width: 100%;
+    background-color: white;
+    backdrop-filter: blur(10px);
+}
+
+#Splitright{
+    width: 50%;
+    display: flex;
+    font-display: left;
+}
