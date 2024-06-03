@@ -1,16 +1,16 @@
-#navbar{
+.navbar{
     width: 100%;
     background-color: rgba(255, 255, 255, 0.7);
     backdrop-filter: blur(10px);
 }
 
-#Splitright{
+.Splitright{
     width: 50%;
     display: flex;
     font-display: left;
     font-size: 24px;
 }
 
-/* #Banner{
-    width: 100%;
+/* .Banner{
+
 } */
