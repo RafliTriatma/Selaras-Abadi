@@ -29,9 +29,11 @@
 .right{
     width: 40%;
     background-color: red;
+    border: 1px solid #C4C4C4;
 }
 
 .left{
     width: 60%;
     background-color: blue;
+    border: 1px solid #C4C4C4;
 }
