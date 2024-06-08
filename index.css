@@ -11,35 +11,15 @@
     width: 100%;
   }
 
-.splitright{
+.logo{
     width: 50%;
     display: flex;
     justify-content: flex-start;
 }
 
-.splitleft{
+.txtnavbar{
     width: 50%;
     display: flex;
     justify-content: flex-end;
     flex-direction: row;
-}
-
-.boxabout{
-    width: 100%;
-}
-
-.aboutwrap{
-    display: flex;
-}
-
-.right{
-    width: 40%;
-    background-color: red;
-    border: 1px solid #C4C4C4;
-}
-
-.left{
-    width: 60%;
-    background-color: blue;
-    border: 1px solid #C4C4C4;
 }
