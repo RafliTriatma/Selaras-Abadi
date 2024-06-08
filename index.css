@@ -5,6 +5,12 @@
     border: 1px solid #C4C4C4;
 }
 
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+
 .splitright{
     width: 50%;
     display: flex;
