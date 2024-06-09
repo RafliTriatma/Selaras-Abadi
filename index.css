@@ -23,3 +23,9 @@
     justify-content: flex-end;
     flex-direction: row;
 }
+
+.boxabout{
+    margin-top: 40px;
+    background-color: blue;
+    border: 1px solid #C4C4C4;
+}
