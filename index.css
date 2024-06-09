@@ -20,8 +20,9 @@
 .txtnavbar{
     width: 50%;
     display: flex;
-    justify-content: flex-end;
+    justify-content: space-between;
     flex-direction: row;
+    margin: 0;
 }
 
 .boxabout{
