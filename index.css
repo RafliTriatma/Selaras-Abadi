@@ -5,10 +5,6 @@
     border: 1px solid #C4C4C4;
 }
 
-.banner img {
-    width: 100%;
-}
-
 .sticky {
     position: fixed;
     top: 0;
